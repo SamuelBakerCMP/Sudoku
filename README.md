@@ -7,7 +7,7 @@
 * Sudoku was the second app created using android studio, after TicTacToe
 * The code allows a user to play the game Sudoku.
 * The sudoku is read in from an external file 'sudoku.txt'. Currently this contains only a singular puzzle, however the code can be adapted to accomodate for multiple puzzles
-* Simple Logic has been implemented to identify whether there is a repeat number either horizontally, vertically, or in the 3*3 grid the number is inside of.
+* Logic has been implemented to identify whether there is a repeat number either horizontally, vertically, or in the 3*3 grid the number is inside of.
 * The code also checks if the player has won.
 * A SAVE/LOAD feature was also created, but must be altered.
 
